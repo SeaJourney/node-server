@@ -1,6 +1,6 @@
 # Node.js Server
 This is a Node.js server which runs on the localhost and lets you run a website on your local computer.
-Currently, this is only supported by Windows but hopefully in future updates we can make it MacOS friendly and maybe some distributions of Linux.
+Currently, this is fully-supported by Windows, but it may well run on other operating systems such as MacOS and some distributions of linux. This is because of Node.js supporting those platforms but this server it mainly tailored to Windows 10/11.
 
 # Installation
 
