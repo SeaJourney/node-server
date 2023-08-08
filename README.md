@@ -1,5 +1,4 @@
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg) ![release](https://shields.io/github/v/release/SeaJourney/node-server)
-# Node.js Server
+# Node.js Server ![MIT License](https://img.shields.io/badge/License-MIT-green.svg) ![release](https://shields.io/github/v/release/SeaJourney/node-server)
 This is a Node.js server which runs on the localhost and lets you run a website on your local computer.
 Currently, this is fully-supported by Windows, but it may well run on other operating systems such as MacOS and some distributions of linux. This is because of Node.js supporting those platforms but this server it mainly tailored to Windows 10/11.
 
